@@ -11,7 +11,7 @@ This project demonstrates a simple registration page using Material Design compo
 - **Responsive Layout**: Designed to look good on various screen sizes.
 
 ## Preview
-<img src="screenshot.png" alt="Screenshot" width="500" height="800">
+<img src="screenshot.png" alt="Screenshot" height="720">
 
 
 ## Installation

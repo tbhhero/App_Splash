@@ -62,3 +62,6 @@ For any inquiries or issues, feel free to open an issue on GitHub or contact me 
 ## Acknowledgements
 
 - [Material Design](https://material.io/develop/android) for the design guidelines and components.
+
+  ##Author
+  @tbhhero
